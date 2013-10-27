@@ -44,7 +44,11 @@ an article about **XMLHttpRequest** (which allowed web browsers to
 At this point JS gradually emerged from obscurity and people began 
 building *useful* things.
 
-But we were *still* stuck in *single-thread* mode...
+But JS was *still* stuck in *single-thread* mode which means 
+calculation-instensive applications would block and show people 
+error messages:
+
+![Warning Unresponsive Script](https://raw.github.com/nelsonic/learn-worker/master/images/warning-unresponsive-script-jquery-fail.jpg "warning unresponsive script - javascript fail")
 
 
 
@@ -71,3 +75,4 @@ So if you're reading this, just skip to the links below. :-) ...tbc!
 - What websites looked like in 1997: http://royal.pingdom.com/2008/09/16/the-web-in-1996-1997/ (when I first started writing HTML... ;-)
 - JavaScript Past & Future (Brendan Eich infoworld interview): http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704
 - DailyJS JavaScript History Lesson: http://dailyjs.com/history-of-javascript.html
+- What websites looked like when they launched: http://www.telegraph.co.uk/technology/6125914/How-20-popular-websites-looked-when-they-launched.html
