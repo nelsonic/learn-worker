@@ -26,7 +26,21 @@ actually *do* anything.
 To give you and idea, this is what the Apple website looked like in 1997:
 ![Apple Home Page 1997](http://farm4.static.flickr.com/3251/2862869896_2396cb3524_o.jpg "Apple Website in 1997")
 
-It was not until 
+From 1995 to 2005 was the Dark-Ages for the web, 
+[Browser Wars](http://en.wikipedia.org/wiki/Browser_wars) meant many features
+were only available in one browser *Internet Explorer* but not in others. 
+Only in February 2005 when [Jesse James Garrett](https://twitter.com/jjg) 
+brought **XMLHttpRequest** to everyone's attention did JavaScript emerge from
+the obscurity and people began building *useful* things in JS.
+
+Also in Feb 2005 Jens & 
+[Lars Rasmussen](http://en.wikipedia.org/wiki/Google_Maps) 
+released [Google Maps](http://en.wikipedia.org/wiki/Google_Maps#2005) 
+which sparked a revolution in JavaScript applications that came to be know
+as "**Web 2.0**" (essentially "*New*" JS-based websites with 
+real *functionality* not just sugar water).
+
+
 
 
 >> I don't have time to work on a proper tutorial/article right now. 
