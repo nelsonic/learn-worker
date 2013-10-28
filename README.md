@@ -52,14 +52,22 @@ error messages:
 
 ![Warning Unresponsive Script](https://raw.github.com/nelsonic/learn-worker/master/images/warning-unresponsive-script-jquery-fail.jpg "warning unresponsive script - javascript fail")
 
+**HTML5 Web Workers** to the *Rescue*! These allow us to offload heavy processing to separate thread and ensure we do not "*block*" the user interface.
+
+#### Basic Workers
+
+. . . need to think of a good (useful) *beginners* example . . . 
+I used them for web-crawling @groupon but most novice developers are not 
+going to see the point of a crawler, so need to think creatively ...
+Let me get back to you on this one. 
 
 
 
 
-
-
+- - -
 >> I don't have time to work on a proper tutorial/article right now. 
-So if you're reading this, just skip to the links below. :-) ...tbc!
+So if you're reading this, just skip to the links below. :-)
+- - -
 
 ### Notes
 
