@@ -5,6 +5,8 @@ Everything you will ever need to know about Web Workers but didn't know you need
 
 - - -
 
+![Web Workers Banner](https://raw.github.com/nelsonic/learn-worker/master/images/web-workers-banner.png "Web Workers Banner")
+
 If you've never heard of **Web Workers**, 
 prepare to **ignite your imagination**!
 
@@ -68,6 +70,8 @@ So if you're reading this, just skip to the links below. :-) ...tbc!
 - Wikipedia article (quite thorough): http://en.wikipedia.org/wiki/Web_worker
 - John Resig expands: http://ejohn.org/blog/web-workers/
 - WHATWG (*living*) **Standard** for Web Workers: http://www.whatwg.org/specs/web-apps/current-work/multipage/workers.html
+- Opera Dev Web Worker intro: http://dev.opera.com/articles/view/web-workers-rise-up/
+- Transferable Objects (sending ArrayBuffers) to/from Web Workers: http://updates.html5rocks.com/2011/12/Transferable-Objects-Lightning-Fast
 
 
 #### Non-essential + Trivia
