@@ -1,4 +1,4 @@
-learn-worker [WORK-in-PROGRESS!!]
+learn-worker [back burner!!]
 ============
 
 Everything you will ever need to know about Web Workers but didn't know you needed.
@@ -6,6 +6,12 @@ Everything you will ever need to know about Web Workers but didn't know you need
 - - -
 
 ![Web Workers Banner](https://raw.github.com/nelsonic/learn-worker/master/images/web-workers-banner.png "Web Workers Banner")
+
+- - -
+>> if you're reading this, please just **skip to the links below**, 
+this guide is not ready.
+- - -
+
 
 If you've never heard of **Web Workers**, 
 prepare to **ignite your imagination**!
@@ -56,18 +62,19 @@ error messages:
 
 #### Basic Workers
 
-. . . need to think of a good (useful) *beginners* example . . . 
-I used them for web-crawling @groupon but most novice developers are not 
-going to see the point of a crawler, so need to think creatively ...
-Let me get back to you on this one. 
+**Todo**: think of a good (useful) *beginners* example to showcase WebWorkers.
+
+(I used them for web-crawling @groupon but most novice developers are not 
+going to see the point of a crawler, so need to think simple ...)
 
 
+I'm de-prioritizing this tutorial for now because workers are not supported in 
+the *default* Android Web Browser:
 
+![Web Worker Browser Support](https://raw.github.com/nelsonic/learn-worker/master/images/web-workers-support-72percent.png "web workers browser support")
 
-- - -
->> I don't have time to work on a proper tutorial/article right now. 
-So if you're reading this, just skip to the links below. :-)
-- - -
+See: http://caniuse.com/webworkers (support 71%)
+
 
 ### Notes
 
@@ -78,6 +85,7 @@ So if you're reading this, just skip to the links below. :-)
 - Wikipedia article (quite thorough): http://en.wikipedia.org/wiki/Web_worker
 - John Resig expands: http://ejohn.org/blog/web-workers/
 - WHATWG (*living*) **Standard** for Web Workers: http://www.whatwg.org/specs/web-apps/current-work/multipage/workers.html
+- W3C Candidate Recomendation: http://www.w3.org/TR/workers/
 - Opera Dev Web Worker intro: http://dev.opera.com/articles/view/web-workers-rise-up/
 - Transferable Objects (sending ArrayBuffers) to/from Web Workers: http://updates.html5rocks.com/2011/12/Transferable-Objects-Lightning-Fast
 
