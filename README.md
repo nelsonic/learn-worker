@@ -88,6 +88,7 @@ See: http://caniuse.com/webworkers (support 71%)
 - W3C Candidate Recomendation: http://www.w3.org/TR/workers/
 - Opera Dev Web Worker intro: http://dev.opera.com/articles/view/web-workers-rise-up/
 - Transferable Objects (sending ArrayBuffers) to/from Web Workers: http://updates.html5rocks.com/2011/12/Transferable-Objects-Lightning-Fast
+- 7 Things you Need to Know: http://www.developer.com/lang/jscript/7-things-you-need-to-know-about-web-workers.html
 
 
 #### Non-essential + Trivia
